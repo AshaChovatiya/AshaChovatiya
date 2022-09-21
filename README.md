@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asha Chovatiya</h1>
-<h3 align="center">A passionate Sr Flutter App Developer | Native/Hybrid App Developer from India</h3>
+<h3 align="center">A Sr Flutter App Developer | Native/Hybrid App Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashachovatiya&label=Profile%20views&color=0e75b6&style=flat" alt="ashachovatiya" /> </p>
 
